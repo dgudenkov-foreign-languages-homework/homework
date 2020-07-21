@@ -2,16 +2,16 @@
     1 - education
     2 - imagination
     3 - responsibility
-    4 - happiest
+    4 - happiness
     5 - employment
     6 - improvement
 
 3. 
-    - That documentary made me want to investigate (look into) the topic some more.
-    - There's a job vacancy in that restaurant. It says to inquire (look for) inside.
+    - That documentary made me want to investigate (look into, research) the topic some more.
+    - There's a job vacancy in that restaurant. It says to inquire (look into) inside.
     - Claude wrote everyone an angry email. I think I should respond (reply) with a few truths of my own!
-    - I watched a really boring debate (discuss) between two politicians last night. All they did was argue (quarrel) with each other.
-    - Can we sit down to discuss (discuss) your most recent coursebook later?
+    - I watched a really boring debate (discussion) between two politicians last night. All they did was argue (quarrel) with each other.
+    - Can we sit down to discuss (debate) your most recent coursebook later?
     - I wonder (question) why people are sometimes unkind to each other.
 
 4. 
