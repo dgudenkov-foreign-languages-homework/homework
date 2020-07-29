@@ -14,7 +14,7 @@
     b.
         - frightened
         - annoyed
-        - exhausted
+        - exhausting
         - satisfied
         - confusing
         - embarassed
