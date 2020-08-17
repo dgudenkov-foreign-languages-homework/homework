@@ -10,10 +10,10 @@
 2.
     - If Joe didn't go to bed at 2 a.m., he wouldn't feel tired all the time.
     - If she was enough fast, she would play for the team
-    - We would drive to your house if we had a car
+    - We could drive to your house if we had a car
     - My life wouldn't be so easy if I had an unsupportive family
     - If I had the money, I would buy that house
-    - I would write to my friends if I wasn't too lazy.
+    - I would write to my friends if I wasn't so lazy.
     - If you watered your plants regularly your plants wouldn't look dry
     - They would help in the house if their mother asked them
     - If I didn't work on Saturdays I could come to a barbecue
@@ -22,7 +22,7 @@
     1 - would make
     2 - had
     3 - would be
-    4 - will introduce
+    4 - would introduce
     5 - had to 
     6 - would change 
     7 - was 
@@ -34,10 +34,10 @@
 
 4.
     - If I had more time I would learn to ski
-    - If you don't work what would you do?
+    - If you didn't work what would you do?
     - If they had to move they wouldn't live with me
     - She'd go out at night if her parents let her
-    - Where would you go if you had a choice
+    - Where would you go if you had a chance
     - I wouldn't sleep if I drank that coffee
 
 5.
