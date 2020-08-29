@@ -8,4 +8,4 @@
     6 - tone of voice
 
   c.
-    Yes, because I told the same things on the lesson
+    Yes, because I told the same things at the lesson
