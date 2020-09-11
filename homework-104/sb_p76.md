@@ -6,10 +6,10 @@
         4 - f
 
     b.
-        1, 7, 8
+        1, 7, 8, 3, 5
 
 6.
-    One of the strongest memories of my childhood - it's how I tried to hide from my grandfather to skip the tennis. I didn't want to go to the tennis seven days a week and tried to skip it. It all started one day when I was on the dacha with my grandmother and my grandfather came there. I was hiding behind the stove, while my grandfather tried to find me. When he climbed to the second floor - I came out of the stove and went to the garden. Then he went to the garden too and I was going behind the house to the fence and then climbed over the fence and run to the forest. He didn't find me that day.
+    One of the strongest memories of my childhood - it's how I tried to hide from my grandfather to skip the tennis. I didn't want to go to the tennis seven days a week and tried to skip it. It all started one day when I was at the dacha with my grandmother and my grandfather came there. I was hiding behind the stove, while my grandfather tried to find me. When he climbed to the second floor - I came out of the stove and went to the garden. Then he went to the garden too and I was going behind the house to the fence and then climbed over the fence and ran to the forest. He didn't find me that day.
 
 Page 78
 
@@ -18,7 +18,7 @@ Page 78
             - Bad news, I'm afraid
             - What's the matter?
             - The computers aren't working
-            - Not again! Annoying
+            - Not again! It's annoying
 
             - You'll never guess what
             - What?
