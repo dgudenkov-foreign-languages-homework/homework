@@ -9,6 +9,6 @@
         I think they have a special talent - their brain, tenacity, and creativity. If you want to be as successful as these people - you should be passionate about your business, have a flexible mind, and learn something new every day.
 
     b.
-        These quotes tell us that your success depends on you. If you are ready for opportunities, don't give up and follow your dreams - you will become successful. I agree with this quotes.
+        These quotes tell us that your success depends on you. If you are ready for opportunities, don't give up and follow your dreams - you will become successful. I agree with these quotes.
 
 
