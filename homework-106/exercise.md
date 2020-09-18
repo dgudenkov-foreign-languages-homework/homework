@@ -1,5 +1,5 @@
- - The floor is cleaned by dad at the moment
+ - The floor is being cleaned by dad at the moment
  - Our telephone was cut off by the phone company yesterday
- - The washing up should be done by you after dinner
+ - The washing up must be done by you after dinner
  - All the letters will have been typed by five o'clock
- - Two candidates are interviewed by them at the moment
+ - Two candidates are being interviewed by them at the moment
