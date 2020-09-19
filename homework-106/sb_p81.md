@@ -1,8 +1,8 @@
 2.
     b. 
-        1 - ?
-        2 - liked
-        3 - practice (?)
+        1 - history
+        2 - practised
+        3 - professional
         4 - 10000
         5 - successfull
 
