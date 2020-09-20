@@ -1,6 +1,6 @@
 2.
     b. 
-        1 - history
+        1 - common
         2 - practised
         3 - professional
         4 - 10000

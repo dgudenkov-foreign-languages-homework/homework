@@ -19,4 +19,4 @@
         7 - award
         8 - winning
 
-What about my special skills? I think it's tennis. I guess, I spent about 2000 hours practicing it. I think bacuse of that I had some success in tennis. I won the first place in my city champioship and won some other medals. I think it all happens because of my grandfather. He trained me a lot and taught me how I should think to win. My dream is to have a teleportation skill. I don't think that I would be successful at this skill if I worked hard on it because it's not a real skill.
+I think that my special skills it's tennis. I guess I spent about 2000 hours practicing it. I think because of that I had some success in tennis. I won first place in my city championship and won some other medals. I think it all happened because of my grandfather. He trained me a lot and taught me how I should think to win. My dream is to have a teleportation skill. I don't think that I would be successful at this skill if I worked hard on it because it's not a real skill.
