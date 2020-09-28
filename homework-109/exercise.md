@@ -1,5 +1,5 @@
 1.
-    Not everyone has a natural talent for sport or art, but most people can be successful if they work hard at something. One theory by writer Malcolm Gladwell is that if you focus on a skill when you're young and spend 10000 hours practicing it before the age of twenty, you can master it. So any teenager who has the opportunity to learn a skill should give it a try. It will help them believe in themselves and they may even become world-class for something
+    Not everyone has a natural talent for sport or art, but most people can be successful if they work hard at something. One theory by writer Malcolm Gladwell is that if you focus on a skill when you're young and spend 10000 hours practicing it before the age of twenty, you can master it. So any teenager who has the opportunity to learn a skill should give it a try. It will help them believe in themselves and they may even become world-class at something
 
 2.
     - I can't believe I got an A in my English exam.
