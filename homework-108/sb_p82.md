@@ -9,16 +9,16 @@
         7 - for
 
     b.
-        - have smth with
+        - have smth in common with
         - think about
         - have access to
         - have a talent for
         - pick up on
-        - to be world class at
+        - to be smth at
         - put in
 
- - When I lived on a student campus I liked argue with my neighbours at night
- - I can easily agree with someone if he's right
+ - When I lived in a student campus I like arguing with my neighbors at night
+ - I can easily agree with someone if he or she is right
  - I have a lot in common with my brother.
 
  - Every day I worry about situation in Belarus
