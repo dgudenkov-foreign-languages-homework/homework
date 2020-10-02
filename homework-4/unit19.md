@@ -7,7 +7,7 @@
   6. When do you take/do your next exam?
   7. I want to do a course in English.
   8. We must make a decision soon.
-  9. He is doing researh in chemistry.
+  9. He is doing research in chemistry.
   10. They made a lot of noise during the party.
 
 19.2 Replace...
