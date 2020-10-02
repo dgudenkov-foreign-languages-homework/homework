@@ -1,12 +1,12 @@
 6.
     - The car's broken down
     - My phone needs recharging
-    - It's out of order
+    - It's out of order // оно поломалось
     - The printer needs fixing
-    - ?
+    - Try switching it off and on again
     - It keeps making this strange noise
     - It doesn't work any more
-    - We have to sort it out
+    - We have to sort it out // нам над порешать это
 
 7.
     - Could you tell me where I can find the manager?
@@ -36,7 +36,7 @@
         - If I have time later, I'll call you.
         - If I don't sleep well enough, I feel terrible the next day.
         - If there is anything else you need just tell me.
-        - Those plants will die unless you water it soon.
+        - Those plants will die unless you water them soon.
         - If we had more room, I'd invite them to stay.
         - It wouldn't be as bad if we didn't have so many exams this year.
         - If I didn't have a car I would cycle everywhere.
@@ -49,7 +49,7 @@
     b.
         1 - b
         2 - c
-        3 - c
+        3 - a
         4 - a
         5 - c
         6 - b
