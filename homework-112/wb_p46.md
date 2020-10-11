@@ -3,7 +3,7 @@
     - He needs to focus on what he is doing
     - She worked hard on her maths project
     - He's a world-class tennis player
-    - He's a great achiever
+    - He's a high achiever
     - It's important to believe in yourself
 
 2.
@@ -12,7 +12,7 @@
     - Do it!
 
 3.
-    - F
+    - DK
     - T
     - F
     - T
@@ -24,5 +24,5 @@
     2 - e
     3 - c
     4 - a
-    5 - d
-    6 - f
+    5 - f
+    6 - d
