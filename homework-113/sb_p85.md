@@ -13,7 +13,7 @@
 
 9.
     a. 
-        1 - ???
+        1 - info
         2 - and - &, resulted in - ->
         3 - 2
         4 - Memory man
@@ -46,10 +46,10 @@
             Can't remember jokes or films
 
     c.
-        - Peggy can remember the difference between 500 different books, but she still makes mistakes ???
+        - Peggy can remember the difference between 500 different books, but she still makes mistakes occasionally
         - The way you stand or move to on the stage
-        - Tim probably the same with other students
-        - After an hour of watching the film he can raslise he's watched it already
+        - Tim probably the same as all other students
+        - After an hour of watching the film he can realise he's watched it already
 
     d.
         - I think it more-less ok
