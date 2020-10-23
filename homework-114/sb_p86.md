@@ -6,9 +6,9 @@
         - b
 
     c.
-        - Because he can sell something in about 50 languages
+        - Because he can sell something in about 15 languages
         - Because he built his own house without any qualification.
-        - Because they show that you able complete the course, that you are motivated.
+        - Because they show that you able to complete the course, that you are motivated.
         - Real-life experience, traveling, meeting people give you an education
 
 3.
@@ -21,5 +21,5 @@
 
         - For example
         - Let me give you an example
-        - For this thing
+        - For one thing
 
