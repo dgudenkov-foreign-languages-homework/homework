@@ -5,6 +5,7 @@
     - ok
     - a lot to repair
     - ok
+    - many people
     - travels a lot
     - ok
     - a lot of money
@@ -15,7 +16,7 @@
     - Come and sit with us. There's plenty of room.
     - She knows a lot, but she still has plenty to learn.
     - It's an interesting town to visit. There plenty to see.
-    - I'm sure we'll find somewhere to stay. There is plenty of hotels.
+    - I'm sure we'll find somewhere to stay. There are plenty of hotels.
 
 3.
     - She isn't very popular. She has few friends.
@@ -32,16 +33,16 @@
     - a few dollars
     - little traffic
     - a little time
-    - a few people
     - ok
-    - ok
+    - a few
+    - a few
 
 5.
     - little
     - a little
-    - few 
+    - a few 
+    - few
+    - little
+    - a little
+    - little
     - a few
-    - little
-    - a little
-    - a little
-    - little
