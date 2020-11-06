@@ -29,7 +29,7 @@
     - We argue sometimes, but we get on well most of our life
     - I went to the cinema by myself. None of my friends wanted to come
     - The test was difficult. I could only answer half of the questions
-    - Some of the fruits you took at the wedding were very good
+    - Some of the fruit you took at the wedding were very good
     - Did you spend all toilet paper I gave you? No, there's still some left
 
 4.

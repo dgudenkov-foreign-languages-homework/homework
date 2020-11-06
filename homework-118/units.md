@@ -13,13 +13,13 @@
     - a little
     - a few
     - few
-    - a few
+    - a little
 
 22.
     - little
-    - many 
+    - much 
     - few
-    - little 
+    - few 
     - much
     - many
     - little
