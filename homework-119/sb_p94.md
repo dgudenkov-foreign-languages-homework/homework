@@ -7,12 +7,12 @@
 11.
     - traffic jam/light
     - car park/rental
-    - city centre/mall
-    -
+    - shopping centre/mall
+    - super/outdoor market
     - primary/language school
     - sports/city centre
-    - high/one-way road
+    - high/one-way road (street)
     - semi-detached/terraced house
-    -
+    - housing/industrial estate
     - duty-free/gift stores
 
