@@ -42,7 +42,7 @@
     - sports centre
     - industrial estate
     - car park
-    - super market
+    - supermarket
     - language school
     - shopping centre
     - one-way street
@@ -55,13 +55,14 @@
     - housing estate
     - language school
     - primary school
-    - traffic lights
+    - one-way street
     - sports centre
     - terraced houses
+    - traffic lights
     - car park
-    - super market
+    - supermarket
     - gift shop
     - outdoor market
     - industrial estate
-    - one-way street
+    - high street
     - shopping centre

@@ -3,8 +3,8 @@
         1. Speaker one is using her website to promote gigs.
         2. During the preparation for a gig she posts some photos, write there what they are doing.
         3. He reviews restaurants in his blog.
-        4. He posts photos of food to Instagram.
-        5. Probably one of the best uses of Facebook is organizing parties.
+        4. He posts photos of food on Instagram.
+        5. Probably one of the best uses of Facebook is organising parties.
         6. He likes seeing people families photographs
 
 3.
