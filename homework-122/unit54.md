@@ -22,7 +22,7 @@
     - Tina ran in a marathon last week, but she failed to finish.
     - I wish that dog would stop barking. It's driving me crazy.
     - Our neighbour threatened to call the police if we didn't stop the noise.
-    - We were hungry, so I suggested have dinner early.
+    - We were hungry, so I suggested having dinner early.
     - Hurry up! I don't want to risk missing the train.
     - They didn't know I was listening to them. I pretended to be asleep.
 
@@ -30,7 +30,7 @@
     - You seem to have lost weight
     - Tom appears to worry about something
     - You seem to know a lot of people
-    - My English seems to get better
+    - My English seems to be getting better
     - That car appears to have broken down
     - David tends to forget things
     - They claim to have solved the problem

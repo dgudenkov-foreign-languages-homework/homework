@@ -10,14 +10,14 @@
     - She told him to meet her at the station
     - They invited him to stay with them
     - He reminded her to call Joe
-    - She warned her to be careful (???)
+    - She warned her to be careful
     - He asked her to help
 
 55.3
     - My father allowed me to use his car
     - I didn't expect it to rain
     - Let him do what he wants
-    - Tim's glasses make him older
+    - Tim's glasses make him look older
     - I want you to know the truth
     - Sarah persuaded me to apply for the job
     - My lawyer advised me not to say anything to the police
@@ -29,7 +29,7 @@
     - I've never been to Hong Kong, but I'd like to go there
     - I'm in a difficult position. What do you advise me to do?
     - The film was very sad. It made me cry
-    - Lisa's parents always encouraged her studying hard at school
+    - Lisa's parents always encouraged her to study hard at school
     - If you want to get a cheap flight, I'd advise you to book early
     - Sarah wouldn't let me borrow her car. She doesn't trust me.
     - If you enter a country with a tourist visa, you are normally not allowed to work there.
