@@ -1,9 +1,9 @@
 53.1
     - She suggested going to the zoo
     - He didn't fancy playing tennis
-    - She admitted driving fast
+    - She admitted driving too fast
     - She suggested going swimming
-    - He denied broking the DVD player
+    - He denied breaking the DVD player
     - They didn't mind waiting a few minutes
 
 53.2
@@ -23,7 +23,7 @@
 53.3
     - You can't stop me doing what I want
     - It's better to avoid traveling during the rush hour
-    - Shall we postpone painting until the next weekend?
+    - Shall we postpone painting the kitchen until the next weekend?
     - Would you mind turning the music down, please?
     - Would you mind not interrupting all the time?
 
