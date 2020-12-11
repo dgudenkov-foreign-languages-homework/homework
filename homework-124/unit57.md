@@ -2,7 +2,7 @@
     - Have you tried changing the batteries?
     - Try turning it the other way
     - Have you tried restarting it?
-    - You could try to phone his office
+    - You could try phoning his office
     - Have you tried taking an aspirin?
 
 57.2
@@ -10,13 +10,13 @@
     - The room isn't very nice. It needs painting
     - The grass is very long. It needs cutting
     - The screws are loose. They need tightening
-    - The bin is full. It needs getting empty
+    - The bin is full. It needs getting empty (emptying)
 
 57.3
     - I was very tired. I tried to keep my eyes open, but I couldn't.
-    - I rang the doorbell, but there was no answer. Then I tried to knock on the door, but there was still no answer.
+    - I rang the doorbell, but there was no answer. Then I tried knoking on the door, but there was still no answer.
     - We tried to put the fire out, but without success. We had to call the fire brigade.
-    - Sue needed to borrow some money. She tried to ask Gary, but he was short of money too.
+    - Sue needed to borrow some money. She tried asking Gary, but he was short of money too.
     - I tried to reach the shelf, but I wasn't tall enough.
     - Please leave me alone. I'm trying to concentrate.
 
