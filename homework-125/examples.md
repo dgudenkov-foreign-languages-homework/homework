@@ -1,6 +1,6 @@
 - I did all the homework, but I forgot ... a composition (to write)
 - Did you remember ... a composition? (to write)
-- I remeber ... a composition (writing)
+- I remember ... a composition (writing)
 - He said he had forgotten to write a composition and went on ... at the lesson (to study)
 - He told the teacher about his day and remembered that he had forgotten to write a composition and went on ... the teacher about his day (telling)
 - He means ... a composition by the next lesson (to write)
