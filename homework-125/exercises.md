@@ -1,7 +1,7 @@
 9.
     - Yes, I saw her typing a report as I came in.
     - So did I. I stood for a moment to watch some children feeding the ducks.
-    - Yes. I hear her perform in a concert last week.
+    - Yes. I heard her perform in a concert last week.
     - No. I saw him leaving for work as I passed by.
     - I noticed him put it in his briefcase.
     - Yes. I watched him doing it to make sure.
@@ -13,11 +13,11 @@
     - B
     - C 
     - C
-    - A
+    - B
     - C
     - C
     - A
-    - C
+    - B
     - B
     - B
 
