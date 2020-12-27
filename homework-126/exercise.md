@@ -28,7 +28,7 @@
     - Did you enjoy the party last night?
     - No. I'd rather have gone to the cinema
 
-    - I'd rather you not made so much noise.
+    - I'd rather you not make so much noise.
     - Sorry. I'll try to be quiet.
 
     - You had better work hard at your new job.
