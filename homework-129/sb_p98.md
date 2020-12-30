@@ -8,3 +8,14 @@
         - It's Thanksgiving but her family doesn't eat meat
 
 3.
+    - Sorry about that, I didn't know
+
+    - Do I need to bring a dish?
+    - No, it's not necessary
+
+    - Is this a bad time? I can come back later
+    - Can you come back in ten minutes? Not at all. It's fine
+
+    - My apologise. I didn't realise
+
+    - If I were you, I'd ...
