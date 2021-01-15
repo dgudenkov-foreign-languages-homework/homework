@@ -1,16 +1,16 @@
 8.1
     1. 
         - How's the new place, Harry?
-        - Not bad, thanks. It's a big flat and it's in the centre of Leeds. But neighbours are a bit annoying.
+        - Not bad, thanks. It's a big flat and it's in the centre of Leeds. But the neighbours are a bit annoying.
         - Why's that?
         - Well, the guy above me is a musician and he plays the drums late at night. And below me, there's a family with young kids.
         - Oh, I know how loud kids can be. I've got a boy and a girl. The boy is three and my daughter's five and they can be really loud, especially at 5 a.m.!
         
         - How do you manage to afford to live in London? It's so expensive!
-        - I share a flat with other people, a man, and two women.
+        - I share the flat with other people, a man, and two women.
         - Oh, really? What do they do?
         - Well, the man is a researcher, and one of the women is a teacher. I don't know exactly what the other one does.
-        - Is that kind f thing common then?
+        - Is that kind if thing common then?
         - Oh, yes. Flats are really expensive in the city, but it's a great location.
 
     2.
@@ -41,11 +41,11 @@
         - That's the man who/that stole my phone!
 
     2.
-     - He is a translator who speaks five languages
-     - Bowling, which easy to learn is popular in my country
-     - My scool days is the time when I was happiest
+     - He is the translator who speaks five languages
+     - Bowling, which is easy to learn, is popular in my country
+     - My school days were the time when I was happiest
      - Goerge is a man whose girlfriend is an actress
-     - The actor, who is from Greece, is the star in a new comedy
+     - The actor, who is from Greece, stars in a new comedy
      - That's the teacher I told you about
 
 8.3
@@ -53,7 +53,7 @@
         - What should I do if I can't eat any more food?
         - Did I do something wrong?
         - Is this a bad time?
-        - Do I need to make the bed?
+        - Do I need to make the bed? / Need I make the bed?
         - Is it OK if I make a cup of tea?
 
     2.
@@ -71,7 +71,7 @@
         - No, come in
 
         - Is it OK if I watch TV?
-        - No, you'd do not. Lilly's asleep
+        - No, you'd better not. Lilly's asleep
 
         - Do I need to get them a gift?
         - No, It's not necessary
@@ -80,17 +80,17 @@
         - If I were you, I'd try your best to be polite
 
 1.
-    - Hi Geoff, have you got a minute of is this a bad time?
-    - No, it's fine Come in
-    - Thanks. Listen, I think wee should organise a housewarming party for Alex, you know the guy who bought new flat last week?
+    - Hi Geoff, have you got a minute or is this a bad time?
+    - No, it's fine. Come in
+    - Thanks. Listen, I think we should organise a housewarming party for Alex, you know the guy who bought new flat last week?
     - Oh, he bought a flat?
-    - Yes, it's in a neew part of town near the lake
+    - Yes, it's in a new part of town near the lake
     - Lake Windermere?
     - Yes, that's the one
     - What a coincidence! My brother, who's an architect, bought a flat there last week, too.
-    - That's great. Anyway, Alex said he wanted a party, but didn't know much people to invite, so asked if wee could help.
+    - That's great. Anyway, Alex said he wanted a party, but didn't know enough people to invite, so asked if wee could help.
     - Great idea.
     - Is it OK, if I invite all the people from the marketing department, do you think?
-    - Yes, of course. That should be plenty (enough?) of guests.
+    - Yes, of course. That should be plenty of guests.
 
 
