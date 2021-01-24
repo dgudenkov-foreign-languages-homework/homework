@@ -2,14 +2,14 @@
     a.
         - Revolution
         - Turning point
-        - Progress
+        - Development
         - Spread
         - Advance 
         - Movement
         - Invention
         - Foundation
         - Discovery
-        - Development
+        - Progress
 
     b.
         - discovery

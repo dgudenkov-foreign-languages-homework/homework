@@ -4,7 +4,7 @@
     - It's important that we work hard at this
     - The key is to believe in yourself
     - He's certainly a high achiever (ok)
-    - We'll improve if we will practise every day
+    - We'll improve if we practise every day
 
 2.
     - known
@@ -12,6 +12,6 @@
     - been reading
     - invited
     - been working
-    - learned
+    - been learning
     - seen
     - met
