@@ -3,7 +3,7 @@
     - I prefer to keep myselft to myself
     - She got to know me well
     - Why don't you mind your own business
-    - They invited us over to dinner
+    - They invited us over for dinner
     - My dad and I get on well
 
 9.
@@ -43,7 +43,7 @@
     - Blogs are a type of online journal
 
 12.
-    - The doctor, which I spoke to, was very nice
+    - The doctor, who I spoke to, was very nice
     - The museum, which we visited, had a wonderful exposition
     - The Island, where she was born, is now under water
     - My girlfriend, who lives in Paris, is in the fashion industry
@@ -62,7 +62,7 @@
 14.
     - Hi, Don. Is it OK if I bring a friend to your party?
     - Yes, of course. No problem
-    - On, and one other thing. Do I need to bring anything?
+    - Oh, and one other thing. Do I need to bring anything?
     - No, it's not necessary. We have everything we need
 
     - I put my feet on the table. Did I do something wrong?
@@ -98,3 +98,36 @@
 
     - I'm so sorry about missing lunch.
     - Honestly, it's fine. Don't worry about it
+
+Test.
+
+    1 - b
+    2 - c
+    3 - b
+    4 - a
+    5 - c
+    6 - c
+    7 - c
+    8 - c
+    9 - c
+    10 - a
+    11 - c
+    12 - a
+    13 - b
+    14 - a
+    15 - c
+    16 - b
+    17 - c
+    18 - a
+    19 - a
+    20 - b
+    21 - a
+    22 - b
+    23 - c
+    24 - a
+    25 - c
+    26 - a
+    27 - a
+    28 - c
+    29 - c
+    30 - a
