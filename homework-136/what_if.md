@@ -1,4 +1,4 @@
-What if vaccination hadn't existed?
+What if vaccination wouldn't have existed?
 
 Have you thought about the world without vaccines?  I think it would have been an awful world if Edward Jenner hadn't invented his vaccine.
 
