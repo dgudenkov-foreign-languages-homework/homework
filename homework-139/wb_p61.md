@@ -15,7 +15,7 @@
 
     c.
         a - enemy
-        b - important (?)
+        b - symbol
         c - installed
         d - infected
         e - crushed

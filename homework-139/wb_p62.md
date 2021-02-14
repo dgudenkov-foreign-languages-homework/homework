@@ -1,6 +1,6 @@
 1.
     b.
-        - She was been born...
+        - She was born...
         - ...and was brought up...
         - Nowadays each graduate-level job is chased...
         - Instead some alternative reasons have been suggested...
@@ -11,7 +11,7 @@
     - A cure for cancer will be discovered one day
     - The files were stolen last year
     - These photos were taken at the end of the war
-    - The missing people had been found
+    - The missing people have been found
     - The paintings are cleaned once a year
 
 3.
