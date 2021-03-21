@@ -1,15 +1,15 @@
 1.
     - Would you have called if you'd heard the news?
-    - If you have gone to bed earlier, you'd sleep better
-    - I wouldn't have miss the bus, if my alarm clock has woken me up
-    - If it has been warmer today, I would gone swim in the sea
-    - Lee's parents would buy her a car if she has и passed her driving test
+    - If you had gone to bed earlier, you'd have slept better
+    - I wouldn't have miss the bus, if my alarm clock had woken me up
+    - If it had been warmer today, I would have gone for a swim in the sea
+    - Lee's parents would have bought her a car if she had passed her driving test
     - If they hadn't told us that it was Anthony's birthday, we wouldn't have got him a present
     - I would have met you at the station if you had told me you were coming
     - Joe wouldn't have sold his car if he hadn't needed the money
-    - What would we have done if they haven't helped us?
-    - If it hasn't been so wet outside, I would have gone for a long walk in the countryside
-    - Would has she become a famous painter if she hasn't studied art?
+    - What would we have done if they hadn't helped us?
+    - If it hadn't been so wet outside, I would have gone for a long walk in the countryside
+    - Would she have become a famous painter if she hadn't studied art?
 
 2.
     - It is often belived that the most reliable cars are made in Germany
