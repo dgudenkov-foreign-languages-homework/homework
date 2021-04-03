@@ -1,0 +1,25 @@
+26.
+    - He complained of feeling very ill
+    - Julie promised to send Mike a postcard
+    - She threatened to send him to his room if he didn't apologise
+    - They invited us to come to dinner on Friday
+    - Marie exclaimed what was an amazing garden
+    - He apologised for interrupting the meeting
+    - She ??? the report by five o'clock
+    - Dad refused to give him any more pocket money
+    - Mum suggested going for a picnic that afternoon
+    - She denied leaving the tap on
+    - Mum reminded me to pack our swimming costumes
+    - My sister admitted me in taking my new skirt
+    - Sue complained of drinking the last can of lemonade
+    - Dave ??? organise a party for Lucy's birthday
+    - She agreed to give him a chance 
+    - The policeman ordered him to drop his gun
+    - Mum wanted to know why I was making such a fuss
+    - Mike promised to give me a lift to the station
+    - Rita advised her son to save some money every month
+    - Daniel boasted that he had got the fastest car of all his friends
+    - Caroline wanted to know whether I could lend her thirty pounds
+    - Mr Revees claimed me that he saw who broke into the flat
+    - She wondered where her purse was
+    - Diana asked Fiona why she was so upset
