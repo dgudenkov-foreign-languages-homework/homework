@@ -50,15 +50,15 @@
 
     b.
         - Ali said that she wanted to go to Spain because she'd never been there before
-        - The travel agent asked him how she was planning to travel
-        - She said that was thinking of going by plane
+        - The travel agent asked her how she was planning to travel
+        - She said that she was thinking of going by plane
         - He asked her if she had thought about taking the train instead
         - Ali said that she hadn't, but that it was a good idea
         - The travel agent said that it was cheaper than flying and that he would show her some of the train routes
         - He asked if she had decided where she wanted to stay
         - She said that she hadn't. She asked him to show her what accomodation was available
         - He said that there was an eco-farm near Valencia where she could stay for free if she helped the farmer pick his olives
-        - Ali said that it sounds great
+        - Ali said that sounded great
 
 6.
     - misunderstood
