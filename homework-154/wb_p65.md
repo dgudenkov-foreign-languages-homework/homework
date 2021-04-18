@@ -1,5 +1,5 @@
 2.
-    1 - light
+    1 - lights
     2 - Eiffel Tower
     3 - Pyramids
     4 - Sydney
@@ -13,13 +13,13 @@
         3 - True
         4 - False - event was critizised
         5 - True
-        6 - False - he thinks that people don't cahge their behavior
+        6 - False - he thinks that people don't change their behavior
 
     b.
         1 - stand
         2 - global
         3 - took part
-        4 - punched
+        4 - plunged
         5 - attention
         6 - raise
         7 - waste
