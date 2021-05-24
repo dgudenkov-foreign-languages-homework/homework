@@ -1,0 +1,3 @@
+My first plane trip
+
+It was in 2017. I was so excited because I was preparing for my first plane trip. I was there three hours before the takeoff. At first, I checked in and then I went to the passport control. After that, I passed my luggage through the x-ray machine. I was a little bit afraid that something would go wrong, but everything was fine. I passed it and went to my boarding gate. There I showed my boarding ticket and took my window sit on the plane. I liked the window view during the trip and it wasn't as scary as I thought.
