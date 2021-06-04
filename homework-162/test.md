@@ -3,7 +3,7 @@
     Coach leaves at: 8.00 a.m.
 
     Museum opens: 10 a.m. to 6 p.m.
-    1st guided tour at: 10.50 a.m.
+    1st guided tour at: 10.15 a.m.
     Name of Exhibition: Antenna
 
     Coffee break at: 11.00 a.m.
@@ -27,7 +27,7 @@
     2 - T
     3 - T
     4 - T
-    5 - F
+    5 - T
     6 - F
 
 12.
@@ -52,7 +52,7 @@
     3 - T
     4 - F
     5 - F
-    6 - T
+    6 - F
 
 15.
     1 - However
@@ -65,4 +65,4 @@
     8 - By the time
     9 - where
     10 - as well as
-    11 - Until
+    11 - As soon as
