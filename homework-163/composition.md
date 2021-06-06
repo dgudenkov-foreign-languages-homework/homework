@@ -1,5 +1,5 @@
 If I could choose to be a famous person from history I would choose Nicholas II.
 
-Nicholas II was the last Russian emperor, who ruled the country from 1894 to 1917 yy. He and his family were killed by socialists in 1917.
-I chose him because he made some mistakes in internal politics and let the revolution happen. Also, he started the useless war with Japan. But despite these mistakes, Russian economics was growing because of his decisions.
-If I were him, I would have listened to citizens and made the form of government more democratic because people wanted it. Also, I wouldn't have dispersed the protest on the 9 of January 1905 and definitely wouldn't have given an order to kill people. In addition, I wouldn't have started a war in Japan, because it was a useless war, and that war upset people. In my opinion, these actions could reduce tensions in society and prevent the revolution.
+Nicholas II was the last Russian emperor, who ruled the country from 1894 to 1917. He and his family were killed by socialists in 1917.
+I chose him because he made some mistakes in internal politics and let the revolution happen. Also, he started the useless war with Japan. Despite these mistakes, Russian economics was growing because of his decisions.
+If I were him, I would have listened to citizens and made the form of government more democratic because people wanted it. Also, I wouldn't have dispersed the protest on the 9 of January 1905 and definitely wouldn't have given an order to kill people. In addition, I wouldn't have started a war in Japan, because it was a pointless war, and that war demoralized people. In my opinion, these actions could reduce tensions in society and prevent the revolution.
