@@ -1,5 +1,5 @@
 Raining cats and dogs:
-    - I don't think we go for a walk today - it's ... outside!
+    - I don't think we will go for a walk today - it's ... outside!
 
     - Calm, quiet weather - ...
 
@@ -15,24 +15,24 @@ Eat your heart out:
     - 
 
 In a pickle
-    - When my step-sister stuck in a washing machine I thought she was ...
+    - When my step-sister got stuck in a washing machine I thought she was ...
 
     - Stable situation
 
 It's all downhill from here
-    - Russian economy was growing till 2014 but now it's all downhill from here
+    - Russian economy was growing till 2014 but now ...
 
     - It's getting better
 
 Tickled pink
     - I was ... when she kissed me
 
-    - Sad
+    - Confident
 
-Wouldn't caught dead
-    - I ... be ... wearing that
+Wouldn't be caught dead
+    - I ... wearing that
 
-    - 
+    - To be proud
 
 Happy as a clam
     - I was ... when she kissed me
@@ -40,11 +40,11 @@ Happy as a clam
     - Really sad
 
 Goody two-shoes
-    - He always do his homework well, as ...
+    - He always does his homework well, as ...
 
     - Bad boy
 
 Piece of cake
-    - That task was ...
+    - That task was a ...
 
     - Hard
