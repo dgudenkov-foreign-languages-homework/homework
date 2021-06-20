@@ -9,7 +9,7 @@
     - a people person
 
 2.
-    - keep yourself to yourself
+    - keep myself to myself
     - spontaneous
     - good laugh
     - witty
