@@ -1,4 +1,4 @@
 11.
     Hi Miki,
     I haven't faced your problem, but I have some thoughts about it. If I were you I would try to make a contact with your groupmates. It's not necessary to speak with all of them, but you can start speaking with one person. Choose the person who you trust the most, explain to him or her your situation and ask him or her to spend some time with you (for example 10-15 minutes per day) practicing English. If you don't want to bother your groupmates I think you can find people like you and you could practise with each other. Unfortunately, I don't know the sites for that purpose, but I think you can easily find some of them on google.
-I hope you find my advice helpful. Good luck!
+    I hope you find my advice helpful. Good luck!
