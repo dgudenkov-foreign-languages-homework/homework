@@ -12,13 +12,13 @@
         - impressed
 
     b.
-        - My audition was terrible, I was so anxious I was made my stomach turm
-        - You look totally disgusted. You look like your ??? .They're only oysters
+        - My audition was terrible, I was so anxious I was shaking like a leaf
+        - You look totally disgusted. You look like your stomach is turning. They're only oysters
         - I find volcanoes really fascinating. I've read lots of books on the topic
         - I lost my place in the middle of giving the presentation. It was really embarassing - I just wished the earth would swallow me up
         - We went to Cairo to see the exhibition, but it was closed. I was really frustrated!
         - My wife came into the shop when I was buying her some perfume. It was quite awkward and I had to hide what I was doing
-        - Seiji had been missing for hours, so his parents were enormously shaking like a leaf when they found him safe and sound
+        - Seiji had been missing for hours, so his parents were enormously relieved when they found him safe and sound
         - When the plane started bumping up and down I was scared out of my wits. I was really frightened. I thought we were going to die
         - You have a great singin voice. I'm really impressed
         - I was quite worried about the test yesterday. I thought I'd failed it, so I was over the moon to find out that I'd got top mark
