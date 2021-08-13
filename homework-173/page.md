@@ -42,4 +42,11 @@
     8 - c
 
 4.
-    - 
+    - I have seen him twice earlier today
+    - We were on the beach this time last week
+    - They aren't home yet. They have gone to see the new James Bond film this afternoon
+    - I read two of his books last week. There are only eight more to go!
+    - My new job has been very enjoyable up to now.
+    - He took part in karate competitions when he was younger
+    - He played tennis for his school until he was 18
+    - So far, I have managed to hand all my homework in on time
