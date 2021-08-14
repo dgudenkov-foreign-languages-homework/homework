@@ -1,1 +1,3 @@
 - Subscribe to
+- so that - таким образом, что
+- with ease - легко, с легкостью

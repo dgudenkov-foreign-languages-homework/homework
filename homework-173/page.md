@@ -1,7 +1,7 @@
 1.
-    1 - e
+    1 - c
     2 - b
-    3 - c
+    3 - e
     4 - a
     5 - f
     6 - d
@@ -17,10 +17,10 @@
     - They'd like to know what the mugger looked like?
 
     - Who am I speaking to, please?
-    - To who I am speaking, please?
+    - To whom I am speaking, please?
 
     - Could you tell him the news about the job losses?
-    - Do you mind me asking could you tell him the news about the job losses?
+    - Do you mind me asking you to tell him the news about the job losses?
 
     - Is there a cashpoint near here?
     - Do you know if there is a cashpoint near here?
@@ -42,7 +42,7 @@
     8 - c
 
 4.
-    - I have seen him twice earlier today
+    - I saw him twice earlier today
     - We were on the beach this time last week
     - They aren't home yet. They have gone to see the new James Bond film this afternoon
     - I read two of his books last week. There are only eight more to go!
