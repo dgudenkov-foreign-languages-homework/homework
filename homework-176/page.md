@@ -1,25 +1,25 @@
 9.
-    1.
-    2.
-    3.
+    1. turn your stomach
+    2. reference
+    3. preference
     4. non refundable
     5. fill in your details
     6. a good laugh
     7. fascinated
     8. a computer geek
-    9.
+    9. naive
     10. scared out of my wits
-    11.
-    12.
+    11. nerviousness
+    12. sympathetic
     13. impressed
-    14.
-    15.
+    14. contribution
+    15. mixture
     16. a people person
     17. worry
     18. down to earth
     19. free trial
     20. frustrated
-    21.
+    21. identification
     22. negotiable
 
 
