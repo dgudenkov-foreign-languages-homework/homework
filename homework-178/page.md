@@ -5,7 +5,8 @@
     - gives no strong opinion about
     - more difficult
     - consciously
-    - be careful when buying new products
+    - but not always
+    - buy what you know and don't experiment
 
 4.
     - upgrade
@@ -18,7 +19,7 @@
     - hooked
 
 5.
-    I don't think, that I novelty addict. I usually buy things that I need. Maybe I addicted from the things that I don't have, but I think that I need them.
+    I don't think, that I'm a novelty addict. I usually buy things that I need. Maybe I'm addicted to the things that I don't have, but I think that I need them.
 
 6.
     - trainers
