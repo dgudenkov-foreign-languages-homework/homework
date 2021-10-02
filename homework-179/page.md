@@ -18,7 +18,7 @@
 5.
     - being messy
     - making a lot of noise
-    - smocking
+    - smoking
     - leaving the washing up
     - being untidy
     - not clearing up after cooking a meal
@@ -26,9 +26,9 @@
     - being dirty
 
 6.
-    - I guess a lot of students just not fast about that
+    - I guess a lot of students are just not fussed about that
     - We've always got on really well and had a really nice experience
-    - So, in return, I would play music late at night when they were trying to sleep just to get my own time
+    - So, in return, I would play music late at night when they were trying to sleep just to get my own back
     - Smoking would be definitely up there! Can't stand smokers
     - Everything else is really not a big deal, but when you're flat-sharing definitely tidiness is very important
-    - Not tidying up after themselves, leaving a mess after cooking - that sort of so
+    - Not tidying up after themselves, leaving a mess after cooking - that sort of stuff
