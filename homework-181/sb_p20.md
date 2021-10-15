@@ -11,7 +11,7 @@
         3 - c
         4 - a
         5 - b
-        6 - c
+        6 - a
 
     b.
         1 - vet people 
