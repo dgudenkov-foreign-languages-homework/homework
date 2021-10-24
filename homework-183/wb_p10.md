@@ -1,12 +1,12 @@
 5.
     a.
         1 - records
-        2 - permission
-        3 - permission
-        4 - appellation
+        2 - permit
+        3 - decrease
+        4 - appael
         5 - project
         6 - project
         7 - recorded
         8 - decreased
-        9 - decreased
+        9 - permitted
         10 - appealed 
