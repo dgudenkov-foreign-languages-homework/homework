@@ -6,7 +6,7 @@
         a, f, d, 
 
     c.
-        a - 1
+        a - 4
         b - 3
         c - 2
         d - 6
@@ -18,15 +18,15 @@
         3 - would-be
         4 - plausible
         5 - go grey
-        6 - undercover
+        6 - go undercover
         7 - blend in
-        8 - A Service insider told 
+        8 - confide in
 
 2.
     1 - identify
     2 - authorities
-    3 - decrease
-    4 - sotre
+    3 - deterrent
+    4 - store
     5 - accesses
     6 - monitor
     7 - prevention
