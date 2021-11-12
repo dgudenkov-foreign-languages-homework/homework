@@ -1,7 +1,7 @@
 5.
     1 - they can be placed
     2 - they can remind you
-    3 - a product to be bought
+    3 - you to buy something
     4 - microchips could be implanted
     5 - Microchips could also be implanted 
     6 - keep
