@@ -3,8 +3,8 @@
     2 - authorities
     3 - deterrent
     4 - store
-    5 - accesses
-    6 - monitor
+    5 - access
+    6 - monitors
     7 - prevention
     8 - keep track of
 
@@ -12,25 +12,25 @@
     a.
         - must be painted
         - was invented, were thrown
-        - was invaded
-        - was gradually damaged
+        - has been invaded
+        - is being gradually damaged
         - being kissed
-        - will be killed
+        - be killed
         - be found
-        - has already been explored
+        - had already been explored
 
     b.
-        7, 6
+        7, 2
 
 4.
     1. are being taught
-    2. were sent
+    2. are sent
     3. be used
     4. decide
     5. will be used
     6. will allow
-    7. is
-    8. also sent
+    7. will be
+    8. will also send
     9. was tested
     10. be introduced
 
