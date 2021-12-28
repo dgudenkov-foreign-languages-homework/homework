@@ -13,4 +13,4 @@
         2 - take the lead (f)
         3 - make do with less (a), on a more even keel (d)
         4 - put his feet up (b)
-        5 - breaking the mold (c)
+        5 - breaking the mould (c)
