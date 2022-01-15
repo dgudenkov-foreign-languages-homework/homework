@@ -6,7 +6,7 @@
     - their music labels
     - musicians who are starting to make their name
     - playing live
-    - quality, popularity and value
+    - price, choice and convenience
     - big names
     - they are too expencive
 
