@@ -1,7 +1,7 @@
 4.
     - Let's discuss why low economic growth results in a rise in unemployment
     - The series focuses on the ethical issues relating to genetic engineering
-    - Rapid industrialization growth has negatively impacted the environment
+    - Rapid industrial growth has negatively impacted the environment
     - Gandhi is considered to be the greatest political leader in history
     - One of the global issues of today is how to stop companies from exploiting water sources needed by local communities
 
@@ -10,7 +10,7 @@
     - Market analysts predict that there will be a dramatic decrease in exports to region over the coming months
     - If you want permission to park in this area, you will need to contact your local council and apply for a parking permit
     - I was truly surprised that my mum didn't suspect a thing. I thought she'd guessed about the surprise party I'd organised for her 60th birthday
-    - About a third of the Earth's land miss in classified as desert as it is very dry and gets less than ten inches of rain a year
+    - About a third of the Earth's land mass is classified as desert as it is very dry and gets less than ten inches of rain a year
     - The family have decided to appeal against the school's decision to exclude their teenage son for bad behaviour
     - The new research to be undertaken by the health authority will investigate the connection between mental health issues and behaviour
 
@@ -20,7 +20,7 @@
     3 - c
     4 - h
     5 - g
-    6 - d
+    6 - b
 
 7. 
     1 - illegal
