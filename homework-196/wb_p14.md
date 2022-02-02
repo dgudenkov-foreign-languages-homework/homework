@@ -1,16 +1,16 @@
 1.
-    1 - had been wanted
+    1 - wanted
     2 - moved
     3 - passed
-    4 - had been trying
-    5 - had finally done
-    6 - were telling me
+    4 - have been trying
+    5 - have finally done
+    6 - have been telling / have told
     7 - became 
-    8 - had been
-    9 - hoped
+    8 - has been
+    9 - have been hoping
     10 - added
-    11 - had spent
-    12 - passed
+    11 - has spent
+    12 - has passed
 
 2.
     1 - b
@@ -19,10 +19,10 @@
     4 - b
     5 - b
     6 - a
-    7 - a
-    8 - b
-    9 - b
-    10 - a
+    7 - b
+    8 - a
+    9 - a
+    10 - b
     11 - b
     12 - a
 
